@@ -1,0 +1,1 @@
+This is my Quiz application project featuring 2 categories with 8 API questions each.
