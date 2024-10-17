@@ -109,4 +109,9 @@ li {
     .catOne, .catTwo {
         margin: 10px;
     }
+    /*Prevention from being squished */
+    .questions {
+        margin: 20px;
+        padding: 1rem;
+    }
 }
